@@ -1,0 +1,10 @@
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\bin\Debug\form_label_textbox.exe.config
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\bin\Debug\form_label_textbox.exe
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\bin\Debug\form_label_textbox.pdb
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.csprojAssemblyReference.cache
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.Form1.resources
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.Properties.Resources.resources
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.csproj.GenerateResource.cache
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.csproj.CoreCompileInputs.cache
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.exe
+C:\Users\Rodriguez de Luna\source\repos\form_label_textbox\form_label_textbox\obj\Debug\form_label_textbox.pdb
